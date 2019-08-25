@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-//drobna poprawka do commita 5
+//'fix wrzucany na someKindOfBranch'
 int main()
 {
   cout << "Hello World!" << endl;
