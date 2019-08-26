@@ -11,6 +11,7 @@ using namespace std;
 int main()
 {
   std::cout << readMe() << std::endl;
+  //..ciag dalszy prac..
   return 0;
 }
 
