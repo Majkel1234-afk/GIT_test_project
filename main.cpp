@@ -10,6 +10,7 @@ using namespace std;
 int main()
 {
   funkcjaBranchyMaster();
+  std::cout << " Kolejny dzien, kolejny commit na masterze! " << std::endl;
   return 0;
 }
 
