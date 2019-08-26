@@ -1,12 +1,16 @@
 #include <iostream>
 #include <string>
 
+std::string readMe()
+{
+  return std::string{"Czesc tu brancha 'someKind..' \nRozwijamy projekt po swojemu!"};
+}
+
 using namespace std;
 //'fix wrzucany na someKindOfBranch'
 int main()
 {
-  std::string someKindBranch_Message{"Czesc tu brancha 'someKind..' \nRozwijamy projekt po swojemu!"};
-  std::cout << someKindBranch_Message << std::endl;
+  std::cout << readMe() << std::endl;
   return 0;
 }
 
