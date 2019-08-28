@@ -2,7 +2,7 @@
 
 int main()
 {
-  std::cout <<"branchX - commit 5" << std::endl;
+  std::cout <<"branchX - commit 6" << std::endl;
 
   std::cout << "branchaX - commit 3" << std::endl;
   std::cout << "branchaY - commit 1" << std::endl;
