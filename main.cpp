@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+int main()  //dupadupadupa [06.02.2020]
 {
   std::cout <<"branchX - commit 6" << std::endl;
   std::cout << "branchY - commit 4" << std::endl;
