@@ -1,5 +1,5 @@
 #include <iostream>
-
+//[06.02.2020 - test]
 int main()
 {
   std::cout <<"branchX - commit 6" << std::endl;
